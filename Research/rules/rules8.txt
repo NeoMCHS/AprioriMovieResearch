@@ -1,0 +1,5 @@
+min support - 0.2 
+min confidence - 0.8 
+max length - 8.0
+{1196} -> {260} (conf: 0.835, supp: 0.231, lift: 2.536, conv: 4.068)
+{1210} -> {260} (conf: 0.822, supp: 0.218, lift: 2.496, conv: 3.773)
