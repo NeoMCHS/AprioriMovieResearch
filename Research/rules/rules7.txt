@@ -1,3 +1,0 @@
-min support - 0.2 
-min confidence - 1.0 
-max length - 6.0
