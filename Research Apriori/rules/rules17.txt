@@ -1,0 +1,4 @@
+movieId = 296
+min support - 0.3
+min confidence - 0.9
+max length - 1.0

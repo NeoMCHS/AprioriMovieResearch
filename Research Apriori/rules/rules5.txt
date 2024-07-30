@@ -1,0 +1,13 @@
+movieId = 2
+min support - 0.5
+min confidence - 0.9
+max length - 3.0
+{110} -> {2} (conf: 1.000, supp: 0.521, lift: 1.000, conv: 0.000)
+{150} -> {2} (conf: 1.000, supp: 0.517, lift: 1.000, conv: 0.000)
+{318} -> {2} (conf: 1.000, supp: 0.523, lift: 1.000, conv: 0.000)
+{356} -> {2} (conf: 1.000, supp: 0.649, lift: 1.000, conv: 0.000)
+{364} -> {2} (conf: 1.000, supp: 0.526, lift: 1.000, conv: 0.000)
+{457} -> {2} (conf: 1.000, supp: 0.544, lift: 1.000, conv: 0.000)
+{480} -> {2} (conf: 1.000, supp: 0.637, lift: 1.000, conv: 0.000)
+{589} -> {2} (conf: 1.000, supp: 0.517, lift: 1.000, conv: 0.000)
+{593} -> {2} (conf: 1.000, supp: 0.521, lift: 1.000, conv: 0.000)
