@@ -1,6 +1,0 @@
-movieId = 296
-min support - 0.6
-min confidence - 0.9
-max length - 3.0
-{318} -> {296} (conf: 1.000, supp: 0.619, lift: 1.000, conv: 0.000)
-{593} -> {296} (conf: 1.000, supp: 0.602, lift: 1.000, conv: 0.000)
